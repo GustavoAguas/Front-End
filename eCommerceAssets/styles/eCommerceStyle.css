@@ -41,8 +41,8 @@ header {
 #offer {
 	font-family: 'Montserrat', sans-serif;
 	clear: both;
-	background-color: rgba(246,246,246,1.00);
-	color: rgba(146,146,146,1.00);
+	background-color: lightslategray;
+	color: rgba(255,255,255,1.00);
 	padding-left: 115px;
 	padding-top: 57px;
 	padding-bottom: 57px;
@@ -140,7 +140,7 @@ header {
 	position: relative;
 	top: -48px;
 	width: 84%;
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgba(71,71,71,1.00);
 	height: 35px;
 	color: rgba(255,255,255,1.00);
 	border-style: none;
